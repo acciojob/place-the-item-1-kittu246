@@ -1,7 +1,7 @@
 .holder{
 	display:flex;
 	justify-content:space-between;
-	flex_wrap:wrap;
+	flex-wrap: wrap;
 }
 .items{
 	
